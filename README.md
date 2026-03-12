@@ -1,0 +1,1 @@
+The primary purpose of this project is to design and implement an intelligent fraud detection system that can identify potentially fraudulent transactions in real time using machine learning algorithms. 
